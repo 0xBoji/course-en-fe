@@ -41,7 +41,7 @@ npm run dev
 ## 🔧 Environment Variables
 
 ```env
-NEXT_PUBLIC_API_URL=http://13.236.2.172:8080
+NEXT_PUBLIC_API_URL=https://course-enrollment.site
 NEXT_PUBLIC_API_VERSION=/api/v1
 ```
 
@@ -95,12 +95,7 @@ The frontend integrates with a REST API providing:
 - Authentication endpoints
 - Pagination and search
 
-## 🤝 Contributing
 
-1. Follow conventional commit format
-2. Use TypeScript for type safety
-3. Maintain responsive design principles
-4. Write clean, documented code
 
 ## 📄 License
 
